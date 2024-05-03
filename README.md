@@ -25,9 +25,9 @@
 </p>
 
 <a href="https://github.com/dakshpokar">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dakshpokar" />
+  <img height=200 align="center" src="https://readme-stats-iota-eight.vercel.app/api?username=dakshpokar" />
 </a>
 <a href="https://github.com/dakshpokar">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dakshpokar&layout=compact&langs_count=8&card_width=320&hide=jupyter%20notebook,css" />
+  <img height=200 align="center" src="https://readme-stats-iota-eight.vercel.app/api/top-langs?username=dakshpokar&layout=compact&langs_count=8&card_width=320&hide=jupyter%20notebook,css" />
 </a>
 <a href="https://github.com/dakshpokar"><img src="https://streak-stats.demolab.com?user=dakshpokar" alt="GitHub Streak" /></a>
