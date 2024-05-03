@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Daksh Pokar</h1>
 <h3 align="center">I love working on crazy ideas!</h3>
 
-- 🌱 I’m currently learning **Full Stack Development using JavaScript!**
+- 🌱 I’m currently learning **Building Highly Scalable Distributed Systems!**
 
 - 👨‍💻 All of my projects are available at [https://dakshpokar.com](https://dakshpokar.com)
 
-- 📝 I regulary write articles on [https://levotron.com](https://levotron.com)
-
-- 💬 Ask me about **python, machine learning and django**
+- 💬 Ask me about **python, typescript, javascript, machine learning and django**
 
 - 📫 How to reach me **dakshpokar@gmail.com**
 
-- ⚡ In my free time you can find me **playing cricket, clicking photos or cooking.**
+- ⚡ In my free time you can find me **playing cricket, clicking photos, or cooking.**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
