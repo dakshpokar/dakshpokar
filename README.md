@@ -24,4 +24,9 @@
 <a href="https://www.hackerearth.com/@dakshpokar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@dakshpokar" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dakshpokar&show_icons=true" alt="dakshpokar" /></p>
+<a href="https://github.com/dakshpokar">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dakshpokar" />
+</a>
+<a href="https://github.com/dakshpokar">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dakshpokar&layout=compact&langs_count=8&card_width=320&hide=jupyter%20notebook,css" />
+</a>
