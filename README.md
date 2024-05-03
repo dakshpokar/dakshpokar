@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **python, typescript, javascript, machine learning and django**
 
-- 📫 How to reach me **dakshpokar@gmail.com**
-
 - ⚡ In my free time you can find me **playing cricket, clicking photos, or cooking.**
 
 <p align="left">
