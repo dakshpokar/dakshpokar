@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=dakshpokar)
+
 <h1 align="center">Hi 👋, I'm Daksh Pokar</h1>
 <h3 align="center">I love working on crazy ideas!</h3>
 
