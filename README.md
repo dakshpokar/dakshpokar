@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **python, typescript, javascript, machine learning and django**
 
-- ⚡ In my free time you can find me **playing cricket, clicking photos, or cooking.**
+- ⚡ In my free time you can find me **playing cricket or clicking photos**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
