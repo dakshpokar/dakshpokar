@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dakshpokar.com](https://dakshpokar.com)
 
-- 💬 Ask me about **python, typescript, javascript, machine learning and django**
+- 💬 Ask me about **go, python, typescript, machine learning and distributed systems**
 
 - ⚡ In my free time you can find me **playing cricket or clicking photos**
 
